@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cryptosyed
 - 👀 I’m interested in starting out as a programmer
-- 🌱 I’m currently learning Python Programming
+- 🌱 I’m currently learning...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: muzammil.m2002@gmail.com
 
