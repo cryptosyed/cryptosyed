@@ -63,7 +63,7 @@ Angular • TypeScript • Gemini API
 
 ## Contact
 
-LinkedIn: https://linkedin.com/in/syed-muzammil  
+LinkedIn: [https://linkedin.com/in/syed-muzammil](https://in.linkedin.com/in/syed-muzammil-10b31b212)  
 Email: dev.muzammil@icloud.com  
 <!---
 cryptosyed/cryptosyed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
